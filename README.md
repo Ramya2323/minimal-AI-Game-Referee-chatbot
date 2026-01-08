@@ -1,1 +1,1 @@
-# minimal-AI-Game-Referee-chatbot
+Rock–Paper–Scissors–Plus AI Game Referee
